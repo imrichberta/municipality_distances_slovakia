@@ -1,5 +1,5 @@
 # Distance matrix between municipalities 
-Simple script to create the matrix. Distances are in seconds by car, using the maximal speed limit through each type of road.
+Simple script to create the matrix. Distances are in seconds by car, using the maximal speed limit on every type of road.
 
 ## Constitution
 Python 3.8.2  
