@@ -12,4 +12,4 @@ OSMNX package
 
 
 
-OSM road network is obtained through osmnx package.
+OSM road network is obtained through osmnx package. It takes a few minutes and several gigabytes of RAM to load the whole road network.
